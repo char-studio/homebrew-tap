@@ -2,8 +2,8 @@
 class Charcal < Formula
   desc "Command-line client for the Charcal day planner"
   homepage "https://charcal.charstudio.app/developers"
-  url "https://raw.githubusercontent.com/char-studio/homebrew-tap/main/releases/charcal-1.0.1-macos.tar.gz"
-  sha256 "3f8d50c1b9f57d7f6cd3b3fda3c2b099bc7f94fc91d4cab33cbe4d34feff0fbb"
+  url "https://raw.githubusercontent.com/char-studio/homebrew-tap/main/releases/charcal-1.0.2-macos.tar.gz"
+  sha256 "cbff58edc106cb57e569905f49352878a03013312a95d858c74521b5baa417df"
 
   depends_on macos: :sequoia
 
